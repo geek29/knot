@@ -4,6 +4,20 @@ My Links to Stuff that interests me
 #Spark SQL
 - Adding Native SQL Support to Spark with Catalyst (https://www.youtube.com/watch?v=ju2OQEXqONU)
 - Spark SQL Engine - http://www.slideshare.net/ye.mikez/spark-sql-meetup
-- Spark SQL Engine in depth ppt on optimization other catalyst stuff : (http://www.slideshare.net/ueshin/20140908-spark-sql-catalyst)
+- Spark SQL Engine in depth ppt on optimization other catalyst stuff (http://www.slideshare.net/ueshin/20140908-spark-sql-catalyst)
 - Databricks' Blog on Catalyst : Deep Dive into Spark SQL’s Catalyst Optimizer  (https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
-- 
+
+
+#Misc Links
+- PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining)
+- FiloDB which is a integration of Cassandra and Spark for faster OLAP: https://github.com/velvia/FiloDB 
+- Bloom Filter and Stream summary Application in Spark : fast-perfect-practical-realtime-approximations-using-spark-streaming 
+-- http://www.slideshare.net/huguk/fast-perfect-practical-realtime-approximations-using-spark-streaming#
+-- https://github.com/lvicentesanchez/fast-gt-perfect
+- Probabilistic DS : https://dzone.com/articles/introduction-probabilistic-0?mz=111665-bigdata
+- Probability in BigData : http://bravenewgeek.com/stream-processing-and-probabilistic-methods/
+- Probabilistic data structures for processing continuous, unbounded streams : https://github.com/tylertreat/BoomFilters
+- Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
+
+#Blogs
+- https://highlyscalable.wordpress.com 
