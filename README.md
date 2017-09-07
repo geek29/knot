@@ -25,4 +25,9 @@ My Links to Stuff that interests me
 - Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
 
 #Blogs
-- https://highlyscalable.wordpress.com 
+- https://highlyscalable.wordpress.com
+
+# Performance Tuning
+- Dropbox's Blog on Optimizing web servers for high throughput and low latency https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
+- Linux Performance - http://www.brendangregg.com/linuxperf.html
+ 
