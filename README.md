@@ -23,6 +23,7 @@ My Links to Stuff that interests me
 - Probability in BigData : http://bravenewgeek.com/stream-processing-and-probabilistic-methods/
 - Probabilistic data structures for processing continuous, unbounded streams : https://github.com/tylertreat/BoomFilters
 - Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
+- How to conduct a good Programming Interview - http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
 
 #Blogs
 - https://highlyscalable.wordpress.com
@@ -30,6 +31,7 @@ My Links to Stuff that interests me
 # Performance Tuning
 - Dropbox's Blog on Optimizing web servers for high throughput and low latency https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
 - Linux Performance - http://www.brendangregg.com/linuxperf.html
+
 
 
  
