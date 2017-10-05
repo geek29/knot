@@ -12,6 +12,8 @@ My Links to Stuff that interests me
 - SparkSQL Internals : (http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
 - Multi query optimization on SparkSQL - (http://www.trongkhoanguyen.com/2015/09/work-sharing-framework-for-apache-spark-multi-query-optimization-on-sparksql.html)
 
+#Office Hacks
+- Silent Meetings Jeff Bezos - http://www.businessinsider.com/jeff-bezos-says-the-technique-he-uses-to-keep-from-wasting-time-at-meetings-can-seem-strange-to-new-employees-2017-9?IR=T
 
 #Misc Links
 - PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining)
