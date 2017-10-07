@@ -27,6 +27,12 @@ My Links to Stuff that interests me
 - Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
 - How to conduct a good Programming Interview - http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
 
+#Mobile Apps
+- Initial experience creating cross-platform apps with Flutter and Dart : http://www.harrischris.com/article/flutter-initial-experience
+> However, the question is whether a .. [Flutter, Cordova, React-native etc app] .. will be Good Enough when the alternative is writing two separate apps
+This is a more important consideration than is often given credit for, perhaps because the perspective we most often read about is the high end of the industry. But vast amounts of software is written to extremely tight budgets, often for small businesses, where there is flat-out zero chance of two native apps being written. It's choose-your-platform, or something cross-platform.
+For very many of these kinds of apps, which are pretty much invisible from the blogs/HN/medium world, RN/Flutter/Cordova etc are perfectly appropriate. The fact that these may not be the best platforms from which to use the very latest, most hardware-entwined OS features, or to do highly custom 'delightful' bits of UX, is often in this world quite irrelevant.
+
 #Blogs
 - https://highlyscalable.wordpress.com
 
