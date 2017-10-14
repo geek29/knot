@@ -40,6 +40,7 @@ For very many of these kinds of apps, which are pretty much invisible from the b
 - Dropbox's Blog on Optimizing web servers for high throughput and low latency https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
 - Linux Performance - http://www.brendangregg.com/linuxperf.html
 
-
+# Hiring
+- https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/
 
  
