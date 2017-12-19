@@ -26,6 +26,10 @@ My Links to Stuff that interests me
 - Probabilistic data structures for processing continuous, unbounded streams : https://github.com/tylertreat/BoomFilters
 - Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
 - How to conduct a good Programming Interview - http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
+- HackerNews links ranked by comments/score ratio - https://paradite.github.io/hn-ratio/
+
+# UI & Design
+- https://principles.design/
 
 # Mobile Apps
 - Initial experience creating cross-platform apps with Flutter and Dart : http://www.harrischris.com/article/flutter-initial-experience
