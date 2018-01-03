@@ -27,6 +27,8 @@ My Links to Stuff that interests me
 - Probabilistic Data Structures & Approximate Solutions https://www.youtube.com/watch?v=yg1ZVdpCbFs&feature=youtu.be
 - How to conduct a good Programming Interview - http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
 - HackerNews links ranked by comments/score ratio - https://paradite.github.io/hn-ratio/
+- In first, 3-D printed objects connect to WiFi without electronics http://www.washington.edu/news/2017/12/05/in-first-3-d-printed-objects-connect-to-wifi-without-electronics/
+- Wireless Mesh and Net neutrality - https://www.inverse.com/article/39507-mesh-networks-net-neutrality-fcc
 
 # UI & Design
 - https://principles.design/
